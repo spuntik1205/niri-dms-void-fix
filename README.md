@@ -1,7 +1,7 @@
 # Void Linux Niri and DankMaterialShell Fixes
 
-What does this thing actually do?:
-it's just my confif files i used on void to get niri working
+## What does this thing actually do?:
+it's just my config files i used on void to get niri working
 
 
 
