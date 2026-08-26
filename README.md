@@ -1,5 +1,10 @@
 # Void Linux Niri and DankMaterialShell Fixes
 
+What does this thing actually do?:
+it's just my confif files i used on void to get niri working
+
+
+
 This repository contains targeted configuration files and script fixes to run the Niri Wayland compositor and DankMaterialShell (DMS) on Void Linux.
 
 ## Included Configurations and Fixes
